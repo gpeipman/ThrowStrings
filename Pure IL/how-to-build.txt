@@ -1,0 +1,6 @@
+1. Open Visual Studio Cross-Tools or Native Tools Command Prompt
+   On Windows 10 it's easy to find these by searching the term Command
+2. Go to this folder in command prompt window
+	<project folder>\Pure IL\
+3. Type the following command:
+	ilasm StringMess.il
