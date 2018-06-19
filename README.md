@@ -13,6 +13,7 @@ ThrowStrings solution is based on these writings by me:
 
 * [Writing IL code on Visual Studio](http://gunnarpeipman.com/2018/01/il-visual-studio/)
 * [IL perversions: throwing and catching strings](http://gunnarpeipman.com/2010/02/il-perversions-throwing-and-catching-strings/)
+* [IL Support Visual Studio Extension](https://marketplace.visualstudio.com/items?itemName=ins0mniaque.ILSupport#overview)
 
 # Warning
 
